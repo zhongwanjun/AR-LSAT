@@ -1,5 +1,6 @@
 # LSAT
-The data and code for the paper [AR-LSAT: Investigating Analytical Reasoning of Text](https://arxiv.org/pdf/2104.06598.pdf)
+The data and code for the paper [AR-LSAT: Investigating Analytical Reasoning of Text](https://arxiv.org/pdf/2104.06598.pdf).
+
 If you find this paper or this code useful, please cite this paper:
 ```angular2html
 @misc{zhong2021arlsat,
