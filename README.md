@@ -1,5 +1,5 @@
 # AR-LSAT
-The data and code for the paper [AR-LSAT: Investigating Analytical Reasoning of Text](https://arxiv.org/pdf/2104.06598.pdf).
+The data and code for the paper [AR-LSAT: Investigating Analytical Reasoning of Text](https://arxiv.org/pdf/2104.06598.pdf), and [complete data](https://github.com/zhongwanjun/AR-LSAT/tree/main/complete_lsat_data) for the paper [From LSAT: The Progress and Challenges of Complex Reasoning](https://arxiv.org/abs/2108.00648.pdf).
 
 If you find this paper or this code useful, please cite this paper:
 ```angular2html
