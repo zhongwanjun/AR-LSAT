@@ -11,6 +11,14 @@ If you find this paper or this code useful, please cite this paper:
       archivePrefix={arXiv},
       primaryClass={cs.CL}
 }
+
+@article{wang2022lsat,
+  title={From lsat: The progress and challenges of complex reasoning},
+  author={Wang, Siyuan and Liu, Zhongkun and Zhong, Wanjun and Zhou, Ming and Wei, Zhongyu and Chen, Zhumin and Duan, Nan},
+  journal={IEEE/ACM Transactions on Audio, Speech, and Language Processing},
+  year={2022},
+  publisher={IEEE}
+}
 ```
 -----
 ## Data
